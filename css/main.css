@@ -124,3 +124,18 @@ footer {
     }
     
 }
+
+/*
+this allows the 2 new photos to be positioned
+*/
+.secondphoto{
+    position: relative;
+    right: 31px;
+    top: 16px;
+}
+.thirdphoto{
+    position: relative;
+    left: 350px;
+    bottom: 540px;
+    top: -523px;
+}
