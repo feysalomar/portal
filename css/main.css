@@ -139,3 +139,7 @@ this allows the 2 new photos to be positioned
     bottom: 540px;
     top: -523px;
 }
+.myvideo{
+    position: relative;
+    bottom: 747px;
+}
