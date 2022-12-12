@@ -143,3 +143,12 @@ this allows the 2 new photos to be positioned
     position: relative;
     bottom: 747px;
 }
+.secondvideo{
+    position: relative;
+  bottom: 753px;
+  left: -219px;
+}
+.resume{
+    position: relative;
+    bottom: 800px;
+}
